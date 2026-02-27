@@ -10,7 +10,7 @@ export default function Contact() {
         <h1 className="font-serif font-bold text-5xl md:text-6xl text-[#3e2723] mb-6">Find Us</h1>
         <p className="text-xl text-[#3e2723]/80 font-light flex items-center justify-center gap-4">
           <span className="hidden sm:inline-block w-12 h-px bg-[#c26d5c]"></span>
-          We'd love to hear from you
+         {` We'd love to hear from you`}
           <span className="hidden sm:inline-block w-12 h-px bg-[#c26d5c]"></span>
         </p>
       </div>
@@ -31,7 +31,7 @@ export default function Contact() {
             <div className="space-y-2 text-[#3e2723]/80 text-lg">
                <span className="font-semibold text-[#3e2723] block mb-2 mt-6">Contact</span>
               <p>
-                Email: <a href="mailto:hello@grovyncafe.co.uk" className="text-[#c26d5c] hover:underline transition-all">hello@grovyncafe.co.uk</a>
+                Email: <a href="mailto:hello@grovyncafe.co.in" className="text-[#c26d5c] hover:underline transition-all">hello@grovyncafe.co.in</a>
               </p>
               <p>
                 Phone: <span className="font-medium">+91 80 4112 0000</span>
