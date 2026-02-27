@@ -47,8 +47,8 @@ export function Footer() {
               <a href="tel:+918041120000" className="hover:text-[#c26d5c] transition-colors">
                 +91 80 4112 0000
               </a>
-              <a href="mailto:hello@grovyncafe.co.uk" className="hover:text-[#c26d5c] transition-colors">
-                hello@grovyncafe.co.uk
+              <a href="mailto:hello@grovyncafe.co.in" className="hover:text-[#c26d5c] transition-colors">
+                hello@grovyncafe.co.in
               </a>
             </div>
           </div>
